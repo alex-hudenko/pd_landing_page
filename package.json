@@ -1,0 +1,8 @@
+{
+  "name": "pd_landing_page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alex-hudenko/pd_landing_page.git",
+  "author": "alex-hudenko <ahudenko@gmail.com>",
+  "license": "MIT"
+}
